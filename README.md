@@ -34,6 +34,16 @@ To run the example type:
 
 `python main.p`
 
+## Output Sample
+
+|      | reviewId                             |                                           content | score | sentiment |
+| :--- | :----------------------------------- | ------------------------------------------------: | :---: | :-------- |
+| 6320 | d1c16bb5-1322-4ba0-ad09-4ef98d94fc2a | Worst update, the offline files are hard to re... |   1   | NEGATIVE  |
+| 5564 | db22256c-ecd0-4ba6-b9d7-bce23c21ccdc |                                       It's usable |   4   | POSITIVE  |
+| 5154 | a2d4fce3-ca82-408c-b646-22c949abff32 | I deleted all my drop box files to free up spa... |   2   | NEGATIVE  |
+| 8719 | 279265a3-7114-4642-b8b3-06d379cfb683 |                                            better |   4   | POSITIVE  |
+| 9886 | 2a6ca7de-0e96-46d8-8460-fde56a348438 |                                          fntk app |   1   | NEGATIVE  |
+
 ### Summary of Changes:
 
 > 1. **Project Description**: Expanded to provide more context about the project.

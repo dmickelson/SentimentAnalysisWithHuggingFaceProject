@@ -34,7 +34,7 @@ if __name__ == '__main__':
     df['sentiment'] = [r['label'] for r in results]
 
     # Print the first 10 entries of the dataframe to verify the results
-    print(df.head(10))
+    print(df.head(20))
 
     # Uncomment the following block if you want to print each review with its analysis result and score
     # Use list zip the result, f-score and print

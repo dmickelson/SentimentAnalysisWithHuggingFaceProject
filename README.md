@@ -44,6 +44,8 @@ To run the example type:
 | 8719 | 279265a3-7114-4642-b8b3-06d379cfb683 |                                            better |   4   | POSITIVE  |
 | 9886 | 2a6ca7de-0e96-46d8-8460-fde56a348438 |                                          fntk app |   1   | NEGATIVE  |
 
+!["Sample Output"](sentiment_output.png)
+
 ### Summary of Changes:
 
 > 1. **Project Description**: Expanded to provide more context about the project.
